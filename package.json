@@ -1,0 +1,45 @@
+{
+  "name": "grunt-gcloud",
+  "description": "A wrapper for google-gcloud node module.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ubilabs/grunt-gcloud",
+  "author": {
+    "name": "Frank Mecklenburg Ubilabs",
+    "email": "mecklenburg@ubilabs.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ubilabs/grunt-gcloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ubilabs/grunt-gcloud/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ubilabs/grunt-gcloud/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-nodeunit": "^0.3.3"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "async": "^0.9.0",
+    "gcloud": "^0.11.0"
+  }
+}

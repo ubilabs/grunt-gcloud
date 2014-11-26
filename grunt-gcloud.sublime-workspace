@@ -1,0 +1,2503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fotn-",
+				"font-weight"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"sin",
+				"singleFinished"
+			],
+			[
+				"track",
+				"trackedRacesCount"
+			],
+			[
+				"trac",
+				"trackedRacesCount"
+			],
+			[
+				"rec",
+				"racesCount"
+			],
+			[
+				"ca",
+				"catgory"
+			],
+			[
+				"tra",
+				"trackedRacesCount"
+			],
+			[
+				"com",
+				"competitorsCount"
+			],
+			[
+				"mul",
+				"multi"
+			],
+			[
+				"mu",
+				"multiRegattaEvent"
+			],
+			[
+				"brea",
+				"breadcrumb"
+			],
+			[
+				"bra",
+				"breadcrumb"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"grey-med",
+				"grey-medium"
+			],
+			[
+				"grey",
+				"grey-dark"
+			],
+			[
+				"borer-",
+				"border-left"
+			],
+			[
+				"event-header",
+				"event-header__breadcrumb"
+			],
+			[
+				"regatt",
+				"regatta"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"regat",
+				"regatta"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"is",
+				"isLive"
+			],
+			[
+				"gre",
+				"grey-light"
+			],
+			[
+				"gry",
+				"grey-medium"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"re",
+				"regattas"
+			],
+			[
+				"gr",
+				"grey-dark"
+			],
+			[
+				"rega",
+				"regattas"
+			],
+			[
+				"reag",
+				"regattas"
+			],
+			[
+				"BUndes",
+				"Bundesliga"
+			],
+			[
+				"rg",
+				"regattas"
+			],
+			[
+				"isLiveI",
+				"isLiveIfEnd"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"nav",
+				"navLink"
+			],
+			[
+				"bread",
+				"breadcrumbs"
+			],
+			[
+				"eve",
+				"event-header"
+			],
+			[
+				"path",
+				"pathParts"
+			],
+			[
+				"local",
+				"locales"
+			],
+			[
+				"pat",
+				"pathParts"
+			],
+			[
+				"Com",
+				"Competitors"
+			],
+			[
+				"Live",
+				"Livecenter"
+			],
+			[
+				"brad",
+				"breadcrumb"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"navit",
+				"navigation"
+			],
+			[
+				"reg",
+				"regattas"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"grey-medium",
+				"grey-medium-dark"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"event-l",
+				"event-logo-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mathc",
+				"matches"
+			],
+			[
+				"load",
+				"loadImages"
+			],
+			[
+				"elee",
+				"elements"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"chec",
+				"checkIfVisible"
+			],
+			[
+				"eele",
+				"element"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"inits",
+				"initStickySlide"
+			],
+			[
+				"win",
+				"windowBottom"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"lay",
+				"lazyLoading"
+			],
+			[
+				"scroll",
+				"scrollOffset"
+			],
+			[
+				"nex",
+				"nextEl"
+			],
+			[
+				"c",
+				"constructor	@constructor"
+			],
+			[
+				"scripts",
+				"scripts/**/*js"
+			],
+			[
+				"pa",
+				"param	@param"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"str",
+				"strStyles"
+			],
+			[
+				"filec",
+				"fileCss"
+			],
+			[
+				"qu",
+				"queries"
+			],
+			[
+				"me",
+				"mediaQueryContent"
+			],
+			[
+				"pack",
+				"packageJson"
+			],
+			[
+				"pck",
+				"packageJson"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"main",
+				"mainCssClasses"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"usemin",
+				"useminPrepare"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"__",
+				"__scoring"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"site-",
+				"site-header"
+			],
+			[
+				"to",
+				"toggleClass"
+			],
+			[
+				"gri",
+				"grid-medium"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"light",
+				"lightbox"
+			],
+			[
+				"scr",
+				"scrollY"
+			],
+			[
+				"auto",
+				"autoprefixer"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"em",
+				"emCalc"
+			],
+			[
+				"hide",
+				"hidden"
+			],
+			[
+				"ligh",
+				"lightboxClose"
+			],
+			[
+				"crea",
+				"createLightbox"
+			],
+			[
+				"cure",
+				"currentTarget"
+			],
+			[
+				"li",
+				"lightboxContent"
+			],
+			[
+				"lightbox",
+				"lightbox"
+			],
+			[
+				"grou",
+				"groups"
+			],
+			[
+				"staus",
+				"status"
+			],
+			[
+				"co",
+				"competitor"
+			],
+			[
+				"races",
+				"racesCount"
+			],
+			[
+				"compe",
+				"competitors"
+			],
+			[
+				"tiem",
+				"stausTimestamp"
+			],
+			[
+				"she",
+				"scheduled"
+			],
+			[
+				"fini",
+				"finished"
+			],
+			[
+				"flag",
+				"flagImage"
+			],
+			[
+				"pah",
+				"phase"
+			],
+			[
+				"regatta",
+				"regattaName"
+			],
+			[
+				"lead",
+				"leaderboard"
+			],
+			[
+				"l",
+				"leaderboard"
+			],
+			[
+				"hbs",
+				"hbsData"
+			],
+			[
+				"get",
+				"getRegattaData"
+			],
+			[
+				"rga",
+				"regattaName"
+			],
+			[
+				"leader",
+				"leaderboard"
+			],
+			[
+				"end",
+				"endpoint"
+			],
+			[
+				"dis",
+				"displayName"
+			],
+			[
+				"leade",
+				"leaderboards"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"fea",
+				"forEach"
+			],
+			[
+				"hand",
+				"handlebarsLoop"
+			],
+			[
+				"han",
+				"handlebarsLoop"
+			],
+			[
+				"Ev",
+				"Event"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1501,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"new",
+				"Git: Checkout New Branch"
+			],
+			[
+				"mer",
+				"Git: Merge"
+			],
+			[
+				"rebas",
+				"Git: Pull Rebase"
+			],
+			[
+				"reba",
+				"Git: Pull Rebase"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"rbas",
+				"Git: Pull Rebase"
+			],
+			[
+				"deve",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rebase",
+				"Git: Pull Rebase"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"reb",
+				"Git: Pull Rebase"
+			],
+			[
+				"merge",
+				"Git: Merge"
+			],
+			[
+				"lo",
+				"Git: Log"
+			],
+			[
+				"re",
+				"Git: Pull Rebase"
+			],
+			[
+				"rea",
+				"Git: Pull Rebase"
+			],
+			[
+				"puhs",
+				"Git: Push"
+			],
+			[
+				"puh",
+				"Git: Push"
+			],
+			[
+				"balme",
+				"Git: Blame"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"balm",
+				"Git: Blame"
+			],
+			[
+				"nw",
+				"Git: Checkout New Branch"
+			],
+			[
+				"ch",
+				"Git: Checkout"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"psh",
+				"Git: Push"
+			],
+			[
+				"me",
+				"Git: Merge"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"reab",
+				"Git: Pull Rebase"
+			],
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"compa",
+				"Sublimerge: Compare to Snapshot"
+			],
+			[
+				"sublimer",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"reabse",
+				"Git: Pull Rebase"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"merg",
+				"Git: Merge"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"jac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"p",
+				"Git: Push"
+			],
+			[
+				"ps",
+				"Git: Push"
+			],
+			[
+				"puash",
+				"Git: Push Current Branch"
+			],
+			[
+				"lore",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remote",
+				"Git: Remote"
+			],
+			[
+				"chec",
+				"Git: Checkout"
+			],
+			[
+				"fet",
+				"Git: Fetch"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sor",
+				"SortBy: Alphabetically"
+			],
+			[
+				"sort",
+				"SortBy: Alphabetically"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ne",
+				"Git: Checkout New Branch"
+			],
+			[
+				"sub",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitl",
+				"Git: Log"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"c",
+				"Git: Checkout"
+			],
+			[
+				"che",
+				"Git: Checkout"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"statsu",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"addf",
+				"Project: Add Folder"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"bran",
+				"Git: Checkout New Branch"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Quick Add"
+			],
+			[
+				"stash",
+				"Git: Stash Apply"
+			],
+			[
+				"bra",
+				"Git: Change Branch"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"stas",
+				"Git: Stash Changes"
+			],
+			[
+				"ush",
+				"Git: Push"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"chn",
+				"Git: Change Branch"
+			],
+			[
+				"tag",
+				"Git: Push Tags"
+			],
+			[
+				"git tag",
+				"Git: New Tag"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"rese",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"lin",
+				"Sort Lines"
+			],
+			[
+				"reser",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"branch",
+				"Git: New Branch"
+			],
+			[
+				"branc",
+				"Git: Change Branch"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"turn",
+				"TernJS: Next Occurance"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"br",
+				"Git: Change Branch"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"stats",
+				"Git: Status"
+			],
+			[
+				"comit",
+				"Git: Commit"
+			],
+			[
+				"appl",
+				"Git: Stash Apply"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"brac",
+				"Git: Change Branch"
+			],
+			[
+				"reste",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"ull",
+				"Git: Pull"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"lor",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"st",
+				"Git: Status"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"comm	",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"res",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"coo",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/frankmecklenburg/Documents/grunt-gcloud"
+	],
+	"file_history":
+	[
+		"/Users/frankmecklenburg/Documents/SAP/sap-sailing/java/com.sap.sailing.domain.test/SailingDomainTest (Proxy, No Tunnel).launch",
+		"/Users/frankmecklenburg/Documents/SAP/code/tasks/jade.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/node_modules/grunt-contrib-jshint/node_modules/.bin/jshint",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/server/event-data.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/regatta-navigation/regatta-navigation.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/event-regatta-navigation.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/main.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/regatta-header/regatta-header.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/event-regatta-header.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/event-header.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/regatta-races-listview/regatta-races-listview.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/event-regatta-list.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/regatta/regatta-header.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/mixins/_regatta.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-regatta-races/event-regatta-races-subhead.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/mixins/_event.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/server/single-data.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-header/breadcrumb-item.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/staging/single-event.html",
+		"/Users/frankmecklenburg/Documents/SAP/sap-sailing/java/com.sap.sailing.velum.resultimport.test/bin/Star_IDM2013n4WF.csv",
+		"/Users/frankmecklenburg/Documents/SAP/code/dist/scripts/sticky.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-regatta-races/event-regatta-races-race-competition.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/event-regatta-races-latest.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/single-event.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/regatta-races-listview/listview-section.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/single-event-finished.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/single-event-competition.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/server/events-data.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/events-upcoming.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/_vars.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/event-regatta-races-chronological.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/event-regatta-races/event-regatta-races.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/event-regatta-races/event-regatta-races-latest.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/event-regatta-races/event-regatta-races-competition.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/.git/COMMIT_EDITMSG",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/event-regatta-races.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/event-regatta-races-competition.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/build/event-header.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-regatta-list/event-regatta-list-item.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-regatta-races/event-regatta-races.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/server/multiRegattaEvent-data.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/server/multiRegatta-data.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/server/series-data.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-regatta-list/event-regatta-list.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-header/navigation-item.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/locales/eventHeader.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/multi-regattas-event.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/multi-regattas-event-ragatta.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-header/event-header.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/event-overview.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/events.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/.git/info/exclude",
+		"/Users/frankmecklenburg/Documents/SAP/code/CONVENTIONS.md",
+		"/Users/frankmecklenburg/Documents/SAP/code/.git/logs/refs/remotes/origin/fix/images-storage-conventions",
+		"/Users/frankmecklenburg/Documents/SAP/sap-sailing/configuration/video-conversion/convertAndDownscaleVideos.sh",
+		"/Users/frankmecklenburg/Documents/SAP/code/.git/config",
+		"/Users/frankmecklenburg/Documents/SAP/sap-sailing/wiki/configure-races-on-server.md",
+		"/Users/frankmecklenburg/Documents/SAP/code/.tmp/events.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/dist/partials/eventSponsors/EventSponsors.css",
+		"/Users/frankmecklenburg/Documents/SAP/code/node_modules/grunt-lintspaces/node_modules/lintspaces/tests/newlines/fixures/eof-valid.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/server/regattas-data.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/multi-regattas-ragatta.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-regatta-header/event-regatta-header.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-header/regattas-dropdown-item.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/dist/partials/eventHeader/EventHeaderResources.java",
+		"/Users/frankmecklenburg/Documents/SAP/code/docs/event-header.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/build/event-regatta-header.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/node_modules/conventional-changelog/node_modules/event-stream/node_modules/through/test/auto-destroy.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/series-event.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/event-schedule.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/event-overview.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/event-media.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/staging/event-overview.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/staging/event-media.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/staging/events.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/node_modules/grunt-newer/tasks/newer.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/node_modules/grunt-contrib-jshint/node_modules/jshint/src/reporters/non_error.js",
+		"/Users/frankmecklenburg/Documents/SAP/sap-sailing/java/com.sap.sailing.www/normalize.css",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/scripts/lib/header.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/dist/scripts/event-header.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/.tmp/event-media.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/tasks/aliases.yaml",
+		"/Users/frankmecklenburg/Documents/SAP/code/docs/lightbox-app.Lightbox.html",
+		"/Users/frankmecklenburg/Documents/SAP/sap-sailing/doc/ADMIN",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/search-result/search-result.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-quickfinder/event-quickfinder.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-overview/event-results.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/build/regattas-dropdown-item.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials/_dropdown.styl",
+		"/Users/frankmecklenburg/Documents/SAP/code/package.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/build/series-overview.json",
+		"/Users/frankmecklenburg/Documents/SAP/sap-sailing/java/com.sap.sailing.server.gateway.serialization/src/com/sap/sailing/server/gateway/serialization/impl/SeriesJsonSerializer.java",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/series-media.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/.tmp/series-event.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-overview/event-result-link.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/event-header/_local_mixins.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/docs/dropdown-app.Dropdown.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/scripts/lib/dropdown.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/docs/dropdown.js.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/dist/scripts/dropdown.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/docs/dropdown.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/node_modules/jscs/lib/rules/disallow-right-sticked-operators.js",
+		"/Users/frankmecklenburg/Documents/SAP/sap-sailing/java/com.googlecode.java-diff-utils/src/difflib/DiffRow.java",
+		"/Users/frankmecklenburg/Documents/SAP/code/.git/description",
+		"/Users/frankmecklenburg/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/frankmecklenburg/Documents/SAP/code/test/temp/dist/HomeResources.java",
+		"/Users/frankmecklenburg/Documents/SAP/code/.tmp/data/locales.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/test/mocks/app/jade/partials/partial-test/partial-test.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/test/mocks/expects/dist/partials/partialTest/PartialTest.ui.xml",
+		"/Users/frankmecklenburg/Documents/SAP/code/test/temp/dist/TextMessages.properties",
+		"/Users/frankmecklenburg/Documents/SAP/code/test/temp/dist/partials/partialTestUnusedCss/PartialTestUnusedCssResources.java",
+		"/Users/frankmecklenburg/Documents/SAP/code/dist/partials/eventHeader/EventHeader.ui.xml",
+		"/Users/frankmecklenburg/Documents/SAP/code/node_modules/mocha/index.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/.drone.yml",
+		"/Users/frankmecklenburg/Documents/SAP/code/tasks/prepareI18nData.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/.tmp/partials/event-header/navigation-item.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/data/build/navigation-item.json",
+		"/Users/frankmecklenburg/Documents/SAP/code/dist/partials/eventHeader/NavigationItem.ui.xml",
+		"/Users/frankmecklenburg/Documents/SAP/code/dist/partials/eventHeader/EventHeader.css",
+		"/Users/frankmecklenburg/Documents/SAP/code/.tmp/partials/event-header/leaderboard-quick-access-item.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/.tmp/partials/event-livebox/event-livebox.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/.tmp/partials/event-header/event-header.html",
+		"/Users/frankmecklenburg/Documents/SAP/code/tasks/readDataJson.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials/header/header.jade",
+		"/Users/frankmecklenburg/Documents/SAP/code/grunt_config/jade.js",
+		"/Users/frankmecklenburg/Documents/SAP/code/.git/refs/heads/feature/json-api",
+		"/Users/frankmecklenburg/Documents/SAP/code/.tmp/locales.json"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/style",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data/server",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data/server",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data/build",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/node_modules/grunt-lintspaces",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt_config",
+			"/Users/frankmecklenburg/Documents/SAP/code/node_modules/grunt-lintspaces/node_modules/lintspaces",
+			"/Users/frankmecklenburg/Documents/SAP/code/node_modules/grunt-lintspaces",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/scripts",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/stylessetStickyStyles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/scripts",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt_config",
+			"/Users/frankmecklenburg/Documents/SAP/code/app",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt_config",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt/",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt/tasks",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt",
+			"/Users/frankmecklenburg/Documents/SAP/code/appgrunt",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/scripts",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade/partials",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/style",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt",
+			"/Users/frankmecklenburg/Documents/SAP/code/app",
+			"/Users/frankmecklenburg/Documents/SAP/code/",
+			"/Users/frankmecklenburg/Documents/SAP/code/.tmp",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/scripts",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data/build",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/scrtips",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data/server",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data/handlebars",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/scripts/raceviewer",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/scripts",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data/server",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/style",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/stylus",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/dist",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials",
+			"/Users/frankmecklenburg/Documents/SAP/code/.tmp",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/.tmp/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/scripts",
+			"/Users/frankmecklenburg/Documents/SAP/code/.tmp/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt/configs",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles/partials",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt",
+			"/Users/frankmecklenburg/Documents/SAP/code/app",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/node_modules/grunt-contrib-stylus/node_modules/nib/lib/nib",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/scripts",
+			"/Users/frankmecklenburg/Documents/SAP/code/staging",
+			"/Users/frankmecklenburg/Documents/SAP/code/.tmp",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/.tmp",
+			"/Users/frankmecklenburg/Documents/SAP/code/dist",
+			"/Users/frankmecklenburg/Documents/SAP/code/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app",
+			"/Users/frankmecklenburg/Documents/SAP/code/.tmp/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade/series*",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/dist/partials",
+			"/Users/frankmecklenburg/Documents/SAP/code/test/mocks/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/test",
+			"/Users/frankmecklenburg/Documents/SAP/code/grunt",
+			"/Users/frankmecklenburg/Documents/SAP/code/test",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/data/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app",
+			"/Users/frankmecklenburg/Documents/SAP/code/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/.tmp/styles",
+			"/Users/frankmecklenburg/Documents/SAP/code/app/jade",
+			"/Users/frankmecklenburg/Documents/SAP/code/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"regatta",
+			"#{i18n.eventHeader",
+			"$grey-very-light",
+			"$white",
+			"subhead",
+			"22",
+			"8px",
+			".label",
+			"1em",
+			";",
+			"befo",
+			"live",
+			"8px",
+			", 15",
+			"header__title__label--live",
+			"__indicator",
+			"header__title__indicator",
+			"emCalc(",
+			"emca",
+			"border",
+			"font-size: emCalc",
+			"border: emCalc",
+			"px",
+			"#ccc",
+			"header__details__details",
+			"header__details__title__indicator",
+			".event-regatta-header__details__title__indicator",
+			".event-regatta-header__details",
+			"__container",
+			".event-regatta-header__container__logo",
+			"__container",
+			"header__container",
+			"event",
+			"regatta-list",
+			"display",
+			"header",
+			"border-right-color",
+			"font-size: emCalc",
+			"px",
+			", 'series-event.jade'",
+			"<<<<<<",
+			"catgory",
+			"i18n.header",
+			".event-header__intro__details__item=",
+			"event-regattas.html",
+			"event-regatta-races-event.html",
+			"regattas",
+			"livecenter",
+			"\"id\": ",
+			"13px",
+			"emCalc",
+			"label",
+			"series-races.html",
+			"event-regatta-races.html",
+			"series-races.html",
+			"html",
+			"trans",
+			";",
+			"breadcrump",
+			"textblock",
+			"dropdown__head__title--button",
+			"12px",
+			"10px",
+			"5px",
+			"10px",
+			";",
+			"10px",
+			";",
+			"transform",
+			";",
+			"background-size",
+			"margin-top",
+			".label",
+			"fleet",
+			"regatta",
+			";",
+			"images",
+			"image",
+			"emCalc",
+			"live",
+			"\"name\":",
+			"\"indent_size",
+			"dropdown",
+			"\"id\":",
+			"mocha",
+			"\",\n",
+			"\"id",
+			"LeaderboardQuickAccess",
+			"path",
+			"path_",
+			"push",
+			"path_",
+			"i18n",
+			"status",
+			"background-s",
+			"navigation",
+			"eventHeader",
+			"event",
+			"url",
+			"bread",
+			"each",
+			"url",
+			"i18n.de",
+			"i18n.",
+			"baseKey",
+			"console",
+			"target",
+			"parts",
+			"path",
+			"current(p)",
+			"current",
+			"target",
+			"parts",
+			"\"",
+			"grunt_config",
+			"i18n.header",
+			"header",
+			"logo",
+			"i18n.siteHeader.",
+			"i18n",
+			"666",
+			"emCalc",
+			".nav-bar",
+			"search",
+			"getDirections",
+			"directions",
+			"directions.",
+			"this.directions"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"category",
+			"dropdown__head__title__button",
+			"i18n.de.",
+			"$grey-light",
+			"config.get('folders').build",
+			"folders.build",
+			"folders.dist",
+			"\"{{",
+			"}}\"",
+			"",
+			"partials/social-footer",
+			"partials/series-overview",
+			"partials/search-result",
+			"partials/main-sponsors",
+			"partials/main-media",
+			"partials/main-events",
+			"partials/event-sponsors",
+			"partials/events-overview-upcoming",
+			"partials/events-overview-recent",
+			"partials/event-regatta-races",
+			"partials/event-regatta-list",
+			"partials/event-regatta-leaderboard",
+			"partials/event-regatta-header",
+			"partials/event-overview",
+			"partials/event-header",
+			"",
+			"/mixins/_global",
+			"mixins/_base",
+			"mixin/_base",
+			"$grey",
+			"include",
+			"",
+			"/*",
+			".."
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								825,
+								825
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/3024_Day.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 129.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 102.0
+	},
+	"output.git":
+	{
+		"height": 311.0
+	},
+	"output.git-checkout":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 202.0
+	},
+	"output.git-custom":
+	{
+		"height": 112.0
+	},
+	"output.git-fetch":
+	{
+		"height": 112.0
+	},
+	"output.git-merge":
+	{
+		"height": 320.0
+	},
+	"output.git-pull":
+	{
+		"height": 100.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"output.git-remote":
+	{
+		"height": 112.0
+	},
+	"project": "grunt-gcloud.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"jade",
+				"code/tasks/jade.js"
+			],
+			[
+				"main",
+				"code/app/styles/main.styl"
+			],
+			[
+				"_vars",
+				"code/app/styles/partials/_vars.styl"
+			],
+			[
+				"single",
+				"code/app/jade/single-event.jade"
+			],
+			[
+				"event-header.ja",
+				"code/app/jade/partials/event-header/event-header.jade"
+			],
+			[
+				"event-header",
+				"code/app/styles/partials/event-header.styl"
+			],
+			[
+				"multi-regattas-event-ragatta.jade",
+				"code/app/jade/multi-regattas-event-ragatta.jade"
+			],
+			[
+				"events.a",
+				"code/app/jade/events.jade"
+			],
+			[
+				"eventheaderjad",
+				"code/app/jade/partials/event-header/event-header.jade"
+			],
+			[
+				"event-head",
+				"code/app/styles/partials/event-header.styl"
+			],
+			[
+				"jade.js",
+				"code/tasks/jade.js"
+			],
+			[
+				"alia",
+				"code/tasks/aliases.yaml"
+			],
+			[
+				"packe",
+				"code/package.json"
+			],
+			[
+				"seriejso",
+				"code/app/data/server/series-data.json"
+			],
+			[
+				"_va",
+				"code/app/styles/partials/_vars.styl"
+			],
+			[
+				"drop",
+				"code/app/styles/partials/_dropdown.styl"
+			],
+			[
+				"drone",
+				"code/.drone.yml"
+			],
+			[
+				".drone",
+				"code/.drone.yml"
+			],
+			[
+				"m",
+				"code/app/styles/main.styl"
+			],
+			[
+				"readda",
+				"code/grunt_config/tasks/readDataJson.js"
+			],
+			[
+				"header.j",
+				"code/app/jade/partials/header/header.jade"
+			],
+			[
+				".dro",
+				"code/.drone.yml"
+			],
+			[
+				"_var",
+				"code/app/styles/partials/_vars.styl"
+			],
+			[
+				"coun",
+				"code/app/scripts/lib/countdown.js"
+			],
+			[
+				"process",
+				"code/grunt_config/tasks/processMediaQueries.js"
+			],
+			[
+				"genra",
+				"code/grunt_config/tasks/generatePartials.js"
+			],
+			[
+				"crea",
+				"code/grunt_config/tasks/createHomeResources.js"
+			],
+			[
+				"proce",
+				"code/grunt_config/tasks/processMediaQueries.js"
+			],
+			[
+				"genre",
+				"code/grunt_config/tasks/generatePartials.js"
+			],
+			[
+				"create",
+				"code/grunt_config/tasks/createHomeResources.js"
+			],
+			[
+				"count",
+				"code/app/scripts/lib/countdown.js"
+			],
+			[
+				"handle",
+				"code/grunt/configs/handlebars.js"
+			],
+			[
+				"grunt",
+				"code/Gruntfile.js"
+			],
+			[
+				"watch",
+				"code/grunt_config/watch.js"
+			],
+			[
+				"slidet",
+				"code/dist/scripts/slideTo.js"
+			],
+			[
+				"alias",
+				"code/grunt_config/aliases.yaml"
+			],
+			[
+				"ali",
+				"code/grunt_config/aliases.yaml"
+			],
+			[
+				"al",
+				"code/grunt_config/aliases.yaml"
+			],
+			[
+				"video",
+				"code/app/scripts/lib/video.js"
+			],
+			[
+				"scroll",
+				"code/app/scripts/lib/scrollTo.js"
+			],
+			[
+				"readm",
+				"code/app/scripts/lib/readMore.js"
+			],
+			[
+				"readmore",
+				"code/app/scripts/lib/readMore.js"
+			],
+			[
+				"header",
+				"code/app/scripts/lib/header.js"
+			],
+			[
+				"countd",
+				"code/dist/scripts/countdown.js"
+			],
+			[
+				"copy",
+				"code/grunt/copy.js"
+			],
+			[
+				"serv",
+				"code/grunt/configs/server.js"
+			],
+			[
+				"server",
+				"code/grunt/configs/server.js"
+			],
+			[
+				"grun",
+				"code/Gruntfile.js"
+			],
+			[
+				"_defau",
+				"code/app/jade/layouts/_default.jade"
+			],
+			[
+				"push",
+				"code/app/bower_components/jquery/src/var/push.js"
+			],
+			[
+				"deploy",
+				"code/grunt/configs/deploy.js"
+			],
+			[
+				"jsh",
+				"code/node_modules/grunt-contrib-jshint/node_modules/.bin/jshint"
+			],
+			[
+				"dep",
+				"code/grunt/configs/deploy.js"
+			],
+			[
+				"partia",
+				"code/.tmp/styles/partials.css"
+			],
+			[
+				"header.",
+				"code/dist/scripts/header.js"
+			],
+			[
+				"staging",
+				"code/grunt/configs/staging.js"
+			],
+			[
+				"deply",
+				"code/grunt/configs/deploy.js"
+			],
+			[
+				"event-h",
+				"code/app/jade/partials/event-header/event-header.jade"
+			],
+			[
+				"serve",
+				"code/grunt/configs/server.js"
+			],
+			[
+				"light",
+				"code/app/scripts/lib/lightbox.js"
+			],
+			[
+				"drone.",
+				"code/.drone.yml"
+			],
+			[
+				"hand",
+				"code/grunt/configs/handlebars.js"
+			],
+			[
+				"handl",
+				"code/app/scripts/lib/handlebars.js"
+			],
+			[
+				"build",
+				"code/grunt/configs/build.js"
+			],
+			[
+				"dron",
+				"code/.drone.yml"
+			],
+			[
+				"pac",
+				"code/package.json"
+			],
+			[
+				"event-o",
+				"code/app/styles/partials/event-overview.styl"
+			],
+			[
+				".css",
+				"code/.csslintrc"
+			],
+			[
+				"satg",
+				"code/grunt/configs/staging.js"
+			],
+			[
+				".cssl",
+				"code/.csslintrc"
+			],
+			[
+				"sti",
+				"code/dist/scripts/sticky.js"
+			],
+			[
+				"slide",
+				"code/app/scripts/raceviewer/slider.js"
+			],
+			[
+				"resi",
+				"code/app/scripts/raceviewer/resize.js"
+			],
+			[
+				"resize",
+				"code/app/scripts/raceviewer/resize.js"
+			],
+			[
+				"seriesmed",
+				"code/app/jade/series-media.jade"
+			],
+			[
+				"seriesjade",
+				"code/app/jade/series-media.jade"
+			],
+			[
+				"sever.",
+				"code/grunt/configs/server.js"
+			],
+			[
+				"server.",
+				"code/grunt/configs/server.js"
+			],
+			[
+				"de.jso",
+				"code/app/locales/de.json"
+			],
+			[
+				"de.",
+				"code/app/locales/de.json"
+			],
+			[
+				"de",
+				"sap-sailing/wiki/development-environment.md"
+			],
+			[
+				"intr",
+				"code/app/jade/partials/global/regatta-intro-content.jade"
+			],
+			[
+				"intro",
+				"code/app/jade/partials/global/regatta-intro-content.jade"
+			],
+			[
+				"stage",
+				"code/.tmp/scripts/lib/stage.js"
+			],
+			[
+				"scr",
+				"code/app/scripts/lib/scrollTo.js"
+			],
+			[
+				"scrollt",
+				"code/app/scripts/lib/scrollTo.js"
+			],
+			[
+				"stick",
+				"code/app/scripts/lib/sticky.js"
+			],
+			[
+				"gruntgetconfig",
+				"code/node_modules/grunt-newer/test/integration/newer-reconfigure.spec.js"
+			],
+			[
+				"pack",
+				"code/package.json"
+			],
+			[
+				"rel",
+				"code/grunt/configs/release.js"
+			],
+			[
+				"header.st",
+				"code/app/styles/partials/header.styl"
+			],
+			[
+				".dr",
+				"code/.drone.yml"
+			],
+			[
+				"everesu",
+				"code/app/jade/partials/_event-results.jade"
+			],
+			[
+				"footer.a",
+				"code/app/jade/partials/footer.jade"
+			],
+			[
+				"_box",
+				"code/app/styles/partials/_box-weather.styl"
+			],
+			[
+				"regajso",
+				"code/app/data/event-regatta-schedule.json"
+			],
+			[
+				"gru",
+				"code/Gruntfile.js"
+			],
+			[
+				"test",
+				"code/test/test.js"
+			],
+			[
+				"make",
+				"code/Makefile"
+			],
+			[
+				"main-",
+				"code/app/jade/partials/main-stage.jade"
+			],
+			[
+				"mix",
+				"code/app/jade/_mixins.jade"
+			],
+			[
+				"pakc",
+				"code/package.json"
+			],
+			[
+				"gr",
+				"code/Gruntfile.js"
+			],
+			[
+				"_avr",
+				"code/app/styles/partials/_vars.styl"
+			],
+			[
+				"poi",
+				"code/app/scripts/models/poi.js"
+			],
+			[
+				"conf",
+				"code/app/scripts/config.js"
+			],
+			[
+				"helper",
+				"code/.tmp/scripts/helper.js"
+			],
+			[
+				"tra",
+				"code/app/lang/translations.js"
+			],
+			[
+				"tran",
+				"code/app/lang/translations.js"
+			],
+			[
+				"re",
+				"code/README.md"
+			],
+			[
+				"read",
+				"code/README.md"
+			],
+			[
+				".js",
+				"code/.jshintrc"
+			],
+			[
+				"view",
+				"code/app/scripts/modules/view.js"
+			],
+			[
+				"geoloca",
+				"code/app/scripts/modules/geolocation.js"
+			],
+			[
+				"trans",
+				"code/app/lang/translations.js"
+			],
+			[
+				"foot",
+				"code/app/jade/layouts/default-partials/_footer.jade"
+			],
+			[
+				"t",
+				"code/app/scripts/modules/translation.js"
+			],
+			[
+				".jshin",
+				"code/.jshintrc"
+			],
+			[
+				"direc",
+				"code/app/scripts/modules/directions.js"
+			],
+			[
+				"view.js",
+				"code/app/scripts/modules/view.js"
+			],
+			[
+				"ser",
+				"code/api/server.js"
+			],
+			[
+				"gurnt",
+				"code/Gruntfile.js"
+			],
+			[
+				"clien",
+				"code/app/remote/scripts/client-scripts.js"
+			],
+			[
+				"_font",
+				"code/app/styles/config/_fonts.styl"
+			],
+			[
+				"_f",
+				"code/app/styles/config/_fonts.styl"
+			],
+			[
+				"_ac",
+				"code/app/styles/sections/_action.styl"
+			],
+			[
+				"_b",
+				"code/app/styles/sections/_body.styl"
+			],
+			[
+				"bod",
+				"code/app/styles/sections/_body.styl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"sa",
+				"~/Documents/sap-trainings-report/sap-trainings-report.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/google-everest-treks/google-everest-treks.sublime-project"
+			],
+			[
+				"earth",
+				"~/Documents/google-earth/google-earth.sublime-project"
+			],
+			[
+				"bas",
+				"~/Documents/bast-sib2/bast-sib2.sublime-project"
+			],
+			[
+				"ev",
+				"~/Documents/google-everest-treks/google-everest-treks.sublime-project"
+			],
+			[
+				"mes",
+				"~/Documents/messe-berlin-routenplaner/messe-berlin-routenplaner.sublime-project"
+			],
+			[
+				"bast",
+				"~/Documents/bast-sib2/bast-sib2.sublime-project"
+			],
+			[
+				"chrome",
+				"~/Documents/google-chrome-backgrounds/google-chrome-backgrounds.sublime-project"
+			],
+			[
+				"chrom",
+				"~/Documents/google-chrome-backgrounds/google-chrome-backgrounds.sublime-project"
+			],
+			[
+				"ubi",
+				"~/Documents/ubi.js/ubi.js.sublime-project"
+			],
+			[
+				"cho",
+				"~/Documents/google-chrome-backgrounds/google-chrome-backgrounds.sublime-project"
+			],
+			[
+				"u",
+				"~/Documents/ubi.js/ubi.js.sublime-project"
+			],
+			[
+				"lunch",
+				"~/Documents/lunchvote/lunchvote.sublime-project"
+			],
+			[
+				"lun",
+				"~/Documents/lunchvote/lunchvote.sublime-project"
+			],
+			[
+				"lunc",
+				"~/Documents/lunchvote/lunchvote.sublime-project"
+			],
+			[
+				"maps",
+				"~/Documents/google-maps-blog/google-maps-blog.sublime-project"
+			],
+			[
+				"eart",
+				"~/Documents/google-earth/google-earth.sublime-project"
+			],
+			[
+				"map",
+				"~/Documents/google-maps-blog/google-maps-blog.sublime-project"
+			],
+			[
+				"fisch",
+				"~/Documents/fork-fisher-appelt/fork-fischer-appelt.sublime-project"
+			],
+			[
+				"jd",
+				"~/Documents/generator-jade/jade-generator.sublime-project"
+			],
+			[
+				"pro",
+				"~/Documents/ubilabs-project-template/project-template.sublime-project"
+			],
+			[
+				"mas",
+				"~/Documents/google-maps-blog/google-maps-blog.sublime-project"
+			],
+			[
+				"sap",
+				"~/Documents/SAP/sap.sublime-project"
+			],
+			[
+				"fis",
+				"~/Documents/fork-fisher-appelt/fork-fischer-appelt.sublime-project"
+			],
+			[
+				"tk",
+				"~/Documents/fork-tk-azubi/fork-tk-azubi.sublime-project"
+			],
+			[
+				"ubim",
+				"~/Documents/ubimaps/ubimaps.sublime-project"
+			],
+			[
+				"pay",
+				"~/Documents/payback-frontend/payback.sublime-project"
+			],
+			[
+				"na",
+				"~/Documents/national geopraphic/natinal-geographic.sublime-project"
+			],
+			[
+				"gene",
+				"~/Documents/generator-jade/jade-generator.sublime-project"
+			],
+			[
+				"test",
+				"~/Documents/test/test.sublime-project"
+			],
+			[
+				"jade",
+				"~/Documents/generator-jade/jade-generator.sublime-project"
+			],
+			[
+				"aw",
+				"~/Documents/aws-asin-scraper/aws-scraper.sublime-project"
+			],
+			[
+				"atl",
+				"~/Documents/atlas/atlas.sublime-project"
+			],
+			[
+				"dak",
+				"~/Documents/dakosy/dakosy-fairlink.sublime-project"
+			],
+			[
+				"at",
+				"~/Documents/atlas/atlas.sublime-project"
+			],
+			[
+				"da",
+				"~/Documents/dakosy/dakosy-fairlink.sublime-project"
+			],
+			[
+				"erd",
+				"~/Documents/erdnuss/erdnusslocken.sublime-project"
+			],
+			[
+				"a",
+				"~/Documents/aws-asin-scraper/aws-scraper.sublime-project"
+			],
+			[
+				"goo",
+				"~/Documents/google-earth/google-earth.sublime-project"
+			],
+			[
+				"re",
+				"~/Documents/remote-control/remote.sublime-project"
+			],
+			[
+				"rem",
+				"~/Documents/remote-control/remote.sublime-project"
+			],
+			[
+				"bli",
+				"~/Documents/blitzer-mobile/blitzer.sublime-project"
+			],
+			[
+				"blitz",
+				"/Users/frankmecklenburg/Documents/blitzer-mobile/blitzer.sublime-project"
+			],
+			[
+				"liz",
+				"/Users/frankmecklenburg/Documents/lizenz/lizenz.sublime-project"
+			],
+			[
+				"hal",
+				"/Users/frankmecklenburg/Documents/hale/hale.sublime-project"
+			],
+			[
+				"to",
+				"/Users/frankmecklenburg/Documents/tollcollect/tollcollect.sublime-project"
+			],
+			[
+				"pa",
+				"/Users/frankmecklenburg/Documents/payback/payback.sublime-project"
+			],
+			[
+				"add",
+				"/Users/frankmecklenburg/Documents/scdb/scdb.sublime-project"
+			],
+			[
+				"tol",
+				"/Users/frankmecklenburg/Documents/tollcollect/tollcollect.sublime-project"
+			],
+			[
+				"tes",
+				"/Users/frankmecklenburg/Documents/test/test.sublime-project"
+			],
+			[
+				"sc",
+				"/Users/frankmecklenburg/Documents/scdb/scdb.sublime-project"
+			],
+			[
+				"c",
+				"/Users/frankmecklenburg/Documents/congstar/congstar.sublime-project"
+			],
+			[
+				"bl",
+				"/Users/frankmecklenburg/Documents/blitzer-mobile/blitzer-mobile.sublime-project"
+			],
+			[
+				"cong",
+				"/Users/frankmecklenburg/Documents/congstar/congstar.sublime-project"
+			],
+			[
+				"con",
+				"/Users/frankmecklenburg/Documents/congstar/congstar.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 1057.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 385.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
