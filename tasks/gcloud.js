@@ -17,16 +17,14 @@ module.exports = function(grunt) {
     var done = this.async(),
       options = this.options({
         keyFilename: '.gcloud.json',
-        metadata: null
+        metadata: {}
       }),
-      storage = require('gcloud')({
+      gcloud = require('gcloud'),
+      storage = gcloud({
         projectId: options.projectId,
         keyFilename: options.keyFilename
       }).storage(),
-      file;
-
-    // Reference an existing bucket.
-    var bucket = storage.bucket(options.bucket);
+      bucket = storage.bucket(options.bucket);
 
     this.files.forEach(function(filePair) {
       filePair.src.forEach(function(src) {
@@ -36,9 +34,11 @@ module.exports = function(grunt) {
         if (!grunt.file.isDir(srcFile)) {
           asyncTasks.push(
             function(callback) {
-              bucket.upload(srcFile, destFile, options.metadata, function(err, file) {
+              var metadata = JSON.parse(JSON.stringify(options.metadata));
+
+              bucket.upload(srcFile, destFile, metadata, function(err, file) {
+                console.log(file);
                 if (err) {
-                  grunt.log.error(err);
                   grunt.fail.warn(err);
                 }
 
