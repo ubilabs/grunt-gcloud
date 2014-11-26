@@ -37,7 +37,6 @@ module.exports = function(grunt) {
               var metadata = JSON.parse(JSON.stringify(options.metadata));
 
               bucket.upload(srcFile, destFile, metadata, function(err, file) {
-                console.log(file);
                 if (err) {
                   grunt.fail.warn(err);
                 }
