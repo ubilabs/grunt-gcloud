@@ -40,6 +40,8 @@ module.exports = function(grunt) {
                 if (err) {
                   grunt.fail.warn(err);
                 }
+                
+                grunt.log.ok('Uploading [' + file.metadata.name + ']');
 
                 callback();
               });
