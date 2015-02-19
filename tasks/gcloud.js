@@ -48,7 +48,7 @@ module.exports = function(grunt) {
       });
     });
 
-    async.parallel(asyncTasks, function() {
+    async.parallelLimit(asyncTasks, options.asyncLimit || 100, function() {
       done();
     });
   });
