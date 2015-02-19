@@ -1,7 +1,7 @@
 {
   "name": "grunt-gcloud",
   "description": "A wrapper for google-gcloud node module.",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/ubilabs/grunt-gcloud",
   "author": {
     "name": "Frank Mecklenburg Ubilabs",
