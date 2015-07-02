@@ -1,4 +1,4 @@
-# grunt-gcloud
+# grunt-gcloud [![Build Status](https://travis-ci.org/ubilabs/grunt-gcloud.svg?branch=master)](https://travis-ci.org/ubilabs/grunt-gcloud)
 
 > A wrapper for the google-gcloud node module.
 
