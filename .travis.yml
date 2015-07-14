@@ -3,5 +3,11 @@ node_js:
   - "0.12"
   - "iojs"
 
+cache:
+  directories:
+    - node_modules
+
+sudo: false
+
 before_script:
   - npm -g install grunt-cli --silent
