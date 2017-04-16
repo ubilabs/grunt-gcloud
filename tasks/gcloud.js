@@ -28,14 +28,13 @@ module.exports = function(grunt) {
 
     this.files.forEach(function(filePair) {
       filePair.src.forEach(function(src) {
-        var srcFile = filePair.cwd + '/' + src,
-          destFile = filePair.dest + '/' + src;
+        var srcFile = filePair.cwd? filePair.cwd  + '/' + src : src,
+          destFile = filePair.dest? filePair.dest + '/' + src : src;
 
         if (!grunt.file.isDir(srcFile)) {
           asyncTasks.push(
             function(callback) {
               var metadata = JSON.parse(JSON.stringify(options.metadata));
-
               bucket.upload(srcFile, destFile, metadata, function(err, file) {
                 if (err) {
                   grunt.fail.warn(err);

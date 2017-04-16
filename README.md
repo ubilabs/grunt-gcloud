@@ -74,16 +74,18 @@ In this example, the default options are used to do something with whatever. So 
 ```js
 grunt.initConfig({
   gcloud: {
-    options: {
-      projectId: 'MyAwesomeProject',
-      bucket: 'bucket',
-      keyFilename: '.gcloud.json'
-    },
-    files: [{
-      src: [
-        'dist/**/*'
-      ]
-    }]
+    project: {
+        options: {
+          projectId: 'MyAwesomeProject',
+          bucket: 'bucket',
+          keyFilename: '.gcloud.json'
+        },
+        files: [{
+          src: [
+            'dist/**/*'
+          ]
+        }]
+    }
   }
 });
 ```
